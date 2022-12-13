@@ -14,6 +14,3 @@ const pool = new Pool({
 })
 
 module.exports = { pool }
-
-postgres://sso_db_user:LfkjNwLq2WQdUR7klI3AfHTOS3k1qgln@dpg-cec5h8cgqg4ap4aql2tg-a.oregon-postgres.render.com/sso_db
-postgres://sso_db_user:LfkjNwLq2WQdUR7klI3AfHTOS3k1qgln@dpg-cec5h8cgqg4ap4aql2tg-a/sso_db
